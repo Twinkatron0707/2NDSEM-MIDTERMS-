@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
     ];
 
     yesButton.addEventListener("click", function () {
-        titleElement.innerHTML = "YAYYYYY >3>_< !!";
+        titleElement.innerHTML = "YAYYYYY >3>_< !! smell u tom :3";
         buttonsContainer.classList.add("hidden");
         catImg.src = "img/IMG-YES.jpg"; // Show "YES" image
     });
